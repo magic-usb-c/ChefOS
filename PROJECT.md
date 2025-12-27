@@ -86,5 +86,6 @@ Sobald ChefOS stabil ist:
 - Auswirkungen einer Entscheidung kurz erklären
 - Keine unnötigen Abkürzungen
 - Fokus auf Verständnis, nicht auf „schnell fertig“
+- Antworten kurz, übersichtlich, aber begründet (warum + Auswirkungen) - Schrittweise als Tasks: immer nur EIN Task, darin alle wichtigen Punkte - Ich mache den Task, stelle ggf. Rückfragen, erst dann kommt der nächste Task
 
 Wenn etwas fehlt oder kaputt ist, ist das **gewollt** – alles wird bewusst ergänzt.
